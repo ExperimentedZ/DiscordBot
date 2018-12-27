@@ -1,0 +1,13 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "This is a good bot for every need",
+  "main": "bot.js",
+  "author": "ExperimentedZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "winston": "^3.1.0"
+  }
+}
